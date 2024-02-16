@@ -6,19 +6,19 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/taskTodayApp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/taskTodayApp?style=for-the-badge)
 
-<h2>Tela Inicial</h2>
+<h2>Main Screen</h2>
 <img src="https://github.com/juliosn/taskTodayApp/assets/99426563/18e9fc29-30f0-4546-903b-ceedf94bf5a0">
 
 <h2>Menu</h2>
 <img src="https://github.com/juliosn/taskTodayApp/assets/99426563/33509bc2-4435-458c-a1fa-ae2668904137">
 
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um aplicativo para gerenciamento de compromissos e eventos pessoais.
+> Academic project carried out in 2023 that consists of the creation of an application for managing appointments and personal events.
 
 
-### Ajustes e melhorias
+### Adjustments and Improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and the next updates will focus on the following tasks:
 
-- [ ] Melhorar interface do menu
-- [ ] Adicionar funcionalidades de gerenciamento de dados (criar, editar e excluir)
-- [ ] Criar interface de tarefas concluídas
+- [ ] Improve menu's interface
+- [ ] Add data management functionality (create, edit, and delete)
+- [ ] Create completed tasks' interface
